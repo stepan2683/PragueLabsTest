@@ -15,7 +15,6 @@ using System.Text;
 
 namespace PragueLabsTest.Controllers
 {
-    //[Route("api/Invoices")]
     [RoutePrefix("api/Invoices")]
     public class ApiInvoicesController : ApiController
     {
